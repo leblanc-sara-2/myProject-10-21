@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\למידה מרחוק-יד\פרויקט\myProject\readAndWriteData\bin\Debug\netcoreapp3.1\readAndWriteData.deps.json
+C:\Users\user\Desktop\למידה מרחוק-יד\פרויקט\myProject\readAndWriteData\bin\Debug\netcoreapp3.1\readAndWriteData.dll
+C:\Users\user\Desktop\למידה מרחוק-יד\פרויקט\myProject\readAndWriteData\bin\Debug\netcoreapp3.1\readAndWriteData.pdb
+C:\Users\user\Desktop\למידה מרחוק-יד\פרויקט\myProject\readAndWriteData\obj\Debug\netcoreapp3.1\readAndWriteData.csprojAssemblyReference.cache
+C:\Users\user\Desktop\למידה מרחוק-יד\פרויקט\myProject\readAndWriteData\obj\Debug\netcoreapp3.1\readAndWriteData.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\למידה מרחוק-יד\פרויקט\myProject\readAndWriteData\obj\Debug\netcoreapp3.1\readAndWriteData.AssemblyInfo.cs
+C:\Users\user\Desktop\למידה מרחוק-יד\פרויקט\myProject\readAndWriteData\obj\Debug\netcoreapp3.1\readAndWriteData.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\למידה מרחוק-יד\פרויקט\myProject\readAndWriteData\obj\Debug\netcoreapp3.1\readAndWriteData.dll
+C:\Users\user\Desktop\למידה מרחוק-יד\פרויקט\myProject\readAndWriteData\obj\Debug\netcoreapp3.1\readAndWriteData.pdb
